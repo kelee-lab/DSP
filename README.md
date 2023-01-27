@@ -1,3 +1,3 @@
 # DSP
 
-This is code folder for DSP
+This is a code for DSP
